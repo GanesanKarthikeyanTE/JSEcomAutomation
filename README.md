@@ -9,7 +9,7 @@ Herein lies an example [Protractor](http://protractortest.org) project, that inc
 
 ## Setup:
 * Install [Node](http://nodejs.org) (v8.x.x or later)
-* `git clone git@github.com:qualityshepherd/protractor-example.git`
+* `git clone https://github.com/GanesanKarthikeyanTE/JSEcomAutomation.git`
 * `npm i` to install the project dependencies
 
 ## Run tests:
